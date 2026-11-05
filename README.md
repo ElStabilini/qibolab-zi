@@ -1,2 +1,2 @@
-# Qibolab - Qblox driver
+# Qibolab - Zurich Instruments driver
 

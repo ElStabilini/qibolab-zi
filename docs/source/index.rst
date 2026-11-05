@@ -1,7 +1,7 @@
 .. title::
-   Qibolab QM
+   Qibolab ZI
 
-Qibolab QM
+Qibolab ZI
 ==========
 
 Lorem ipsum
@@ -9,4 +9,4 @@ Lorem ipsum
 .. toctree::
     :maxdepth: 2
 
-    api-reference/qibolab_qblox
+    api-reference/qibolab_zi

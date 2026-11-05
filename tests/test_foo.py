@@ -1,4 +1,4 @@
-import qibolab_qblox  # noqa
+import qibolab_zi  # noqa
 
 
 def test_bar():
